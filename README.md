@@ -1,34 +1,34 @@
-# CreativeVisualization
+# Creative Visualization
 Workshop for City Science August 13th 2019
 
+### Tools:
 
-Tools:
+  - java/Processing
+  https://processing.org/
 
-java/Processing
-https://processing.org/
+  - c++/openFrameworks
+  https://openframeworks.cc/
 
-c++/openFrameworks
-https://openframeworks.cc/
+  - c++/cinder
+  https://libcinder.org/
 
-
-
-c++/cinder
-https://libcinder.org/
-
-javascript
+  - javascript/
 
 python
 
-Reference:
+### Reference:
 
-Generative Design
-http://www.generative-gestaltung.de
+- Generative Design by Matt pearson.
+ http://www.generative-gestaltung.de
 
-Generative Art
-http://zenbullets.com/book.php
+- Generative Art
+  http://zenbullets.com/book.php
 
-Nature of Code by Daniel Shiffman
-https://natureofcode.com
+- Nature of Code by Daniel Shiffman
+  https://natureofcode.com
 
-The Book of Shaders:
-https://thebookofshaders.com/
+- The Book of Shaders
+  https://thebookofshaders.com/
+
+- openProcessing
+  https://www.openprocessing.org/
