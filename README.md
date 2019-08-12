@@ -13,8 +13,10 @@ Workshop for City Science August 13th 2019
   https://libcinder.org/
 
   - javascript/
+  https://p5js.org/, https://d3js.org/, https://reactjs.org/, https://www.pixijs.com/
 
-python
+ - python
+ 
 
 ###  Inspiration:
 
@@ -35,6 +37,9 @@ python
 
 - Rafael Lozano-Hemmer
   http://www.lozano-hemmer.com/projects.php
+
+- Zach Lieberman
+https://www.instagram.com/zach.lieberman/?hl=en
 
 ### Reference:
 
