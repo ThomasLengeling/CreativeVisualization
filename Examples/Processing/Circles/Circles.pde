@@ -1,14 +1,18 @@
+/*
+Simple square/circle Matrix
+*/
 void setup() {
   size(800, 800);
   rectMode(CENTER);
-  
+
   smooth(32);
-  noLoop();
+  noLoop(); //don't update
 }
 
 void draw() {
   background(0);
 
+  //draw a matrix for circle/squares
   for (int i = 0; i < 15; i++) {
     for (int j = 0; j < 15; j++) {
       float x = i*50 + 50;
@@ -30,7 +34,7 @@ void draw() {
   }
 }
 
-
+//draw cycles
 void drawSemi(float x, float y) {
   //draw Rectagle
   noStroke();

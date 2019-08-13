@@ -12,12 +12,10 @@ void draw() {
   beginShape();
   for (int i = 0; i < 20; i++) {
 
-
     float incNoise = noise(xoff);
     float x = i*incNoise + 250;
     float y = 50;
-    
-    
+
     vertex(x, y);
     xoff +=0.03;
   }

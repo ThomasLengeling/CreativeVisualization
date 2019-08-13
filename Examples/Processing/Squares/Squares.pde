@@ -4,13 +4,17 @@ void setup() {
 
   background(0);
 
+  //change color mode to HSB
   colorMode(HSB, 360, 1, 1);
   rectMode(CENTER);
 }
 
 void draw() {
+  //fill background depending on the mouse X position
   background(mouseX / 2.0, 1, 1);
 
+
+  //draw a square and circle depending on the mouse Y position
   noStroke();
 
   fill(360 - mouseY /2.0, 1, 1);

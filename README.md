@@ -13,10 +13,15 @@ Workshop for City Science August 13th 2019
   https://libcinder.org/
 
   - javascript/
-  https://p5js.org/, https://d3js.org/, https://reactjs.org/, https://www.pixijs.com/
+  p5js: https://p5js.org/, https://d3js.org/, https://reactjs.org/, https://www.pixijs.com/
 
- - python
- 
+  - Graphical interface and scripting, https://www.derivative.ca/, https://vvvv.org/
+
+
+  - Unity https://unity.com/, Unreal https://unity.com/  
+
+- python
+
 
 ###  Inspiration:
 
@@ -39,11 +44,14 @@ Workshop for City Science August 13th 2019
   http://www.lozano-hemmer.com/projects.php
 
 - Zach Lieberman
-https://www.instagram.com/zach.lieberman/?hl=en
+  https://www.instagram.com/zach.lieberman/?hl=en
+
+- Refik Anadol
+  https://www.instagram.com/refikanadol/?hl=en
 
 ### Reference:
 
-- Generative Design by Matt pearson.
+- Generative Design by Matt Pearson.
  http://www.generative-gestaltung.de
 
 - Generative Art
@@ -52,7 +60,7 @@ https://www.instagram.com/zach.lieberman/?hl=en
 - Nature of Code by Daniel Shiffman
   https://natureofcode.com
 
-- The Book of Shaders
+- The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe
   https://thebookofshaders.com/
 
 - openProcessing
